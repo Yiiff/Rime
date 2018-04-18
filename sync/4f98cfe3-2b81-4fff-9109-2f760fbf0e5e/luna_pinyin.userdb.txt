@@ -1,0 +1,106 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	91
+#@/user_id	4f98cfe3-2b81-4fff-9109-2f760fbf0e5e
+a 	啊	c=2 d=1.8825 t=76
+bao zi 	包子	c=1 d=1 t=55
+bei zhua 	被抓	c=0 d=0.1 t=86
+ben ming 	本名	c=1 d=1 t=21
+ben yue 	本月	c=1 d=1 t=34
+bie 	憋	c=1 d=1 t=74
+bu 	不	c=1 d=1 t=83
+bu guo lai 	不過來	c=0 d=0.1 t=63
+bu zhi dao 	不知道	c=1 d=1 t=48
+ce suo 	廁所	c=0 d=0.199005 t=58
+chi 	吃	c=1 d=1 t=71
+chi le 	吃了	c=1 d=1 t=53
+chi sha 	癡傻	c=1 d=1 t=70
+chu li 	處理	c=1 d=1 t=6
+ci hui 	慈惠	c=1 d=1 t=78
+de 	的	c=1 d=1 t=13
+dian hua 	電話	c=1 d=1 t=3
+du 	讀	c=0 d=0.1 t=78
+du chu 	讀出	c=1 d=1 t=81
+gai le 	改了	c=1 d=1 t=43
+gang dao 	剛到	c=1 d=1 t=91
+ge 	個	c=1 d=1 t=54
+guan yu 	關於	c=1 d=1.1 t=18
+guan yu wo 	關於我	c=1 d=1 t=19
+hui kuan 	回款	c=1 d=1 t=35
+jiang ren 	匠人	c=2 d=1.97531 t=15
+jie guo 	結果	c=1 d=1 t=60
+jin tian 	今天	c=0 d=0.1 t=48
+jiu 	就	c=0 d=0.1 t=86
+jiu bei zhua 	就被抓	c=1 d=1 t=87
+jiu xiang 	就像	c=0 d=0.1 t=56
+jiu xiang qu ce suo 	就像去廁所	c=1 d=1 t=57
+kan bu qing 	看不清	c=1 d=1 t=45
+ke yi 	可以	c=0 d=0.1 t=35
+ke yi le 	可以了	c=2 d=1.99501 t=37
+la du zi 	拉肚子	c=1 d=1 t=50
+le 	了	c=4 d=3.5628 t=88
+mei shi 	沒事	c=1 d=1 t=90
+mei shui 	沒睡	c=1 d=1 t=8
+ming gan 	明甘	c=1 d=1 t=77
+na ge 	那個	c=2 d=1.86936 t=33
+neng 	能	c=1 d=1 t=80
+ni 	你	c=1 d=1 t=84
+ni na 	你那	c=1 d=1 t=66
+nian 	年	c=1 d=1 t=24
+nu li 	努力	c=1 d=1 t=17
+pai she 	拍攝	c=1 d=1 t=28
+qie huan 	切換	c=0 d=0.1 t=63
+qie huan bu guo lai 	切換不過來	c=1 d=1 t=64
+qing dao 	青島	c=1 d=1 t=27
+qu 	去	c=1 d=1.07272 t=58
+qu ce suo 	去廁所	c=1 d=1 t=59
+qu le 	去了	c=1 d=1 t=61
+qu xiao 	取消	c=1 d=1 t=46
+ren hua 	人話	c=0 d=0.1 t=85
+ri 	日	c=1 d=1 t=26
+sa 	撒	c=0 d=0.1 t=1
+sha 	啥	c=1 d=1 t=72
+shan chu 	刪除	c=1 d=1 t=47
+she ying 	攝影	c=1 d=1 t=12
+shi 	是	c=2 d=1.87372 t=67
+shi shi 	試試	c=1 d=1 t=85
+shu liang 	數量	c=0 d=0.1 t=38
+shu ru fa 	輸入法	c=0 d=0.1 t=62
+shuo 	說	c=0 d=0.1 t=85
+shuo ren hua 	說人話	c=1 d=1 t=86
+suan le 	算了	c=1 d=1 t=89
+ting guo 	停過	c=1 d=1 t=62
+wan cheng 	完成	c=1 d=1 t=30
+wan er 	玩兒	c=0 d=0.1 t=1
+wan er sa 	玩兒撒	c=1 d=1 t=2
+wan le 	完了	c=1 d=1 t=56
+wo 	我	c=0 d=0.273491 t=62
+wo jin tian 	我今天	c=1 d=1 t=49
+wo shu ru fa 	我輸入法	c=1 d=1 t=63
+xi huan 	喜歡	c=1 d=1 t=11
+xiang 	想	c=1 d=1 t=58
+xiang dang 	相當	c=1 d=1 t=38
+yan se 	顏色	c=1 d=1 t=42
+yi ge 	一個	c=1 d=1 t=14
+yi ming 	一名	c=1 d=1 t=9
+yi si 	意思	c=1 d=1 t=82
+yi xie 	一些	c=0 d=0.1 t=74
+yong 	用	c=0 d=0.1 t=74
+yong yi xie 	用一些	c=1 d=1 t=75
+yu 	於	c=2 d=1.97045 t=29
+yuan ming 	原名	c=1 d=1 t=20
+yue 	月	c=1 d=1 t=25
+za hui shi 	咋回事	c=1 d=1 t=68
+zao chen 	早晨	c=2 d=1.91851 t=69
+zhe ge 	這個	c=1 d=1 t=41
+zhe zhong shi qing 	這種事情	c=1 d=1 t=4
+zheng zai 	正在	c=1 d=1 t=16
+zhi jie 	直接	c=1 d=0.943665 t=78
+zhi jie du 	直接讀	c=1 d=1 t=79
+zhi qian 	之前	c=1 d=1 t=32
+zhou xiao 	周霄	c=1 d=1 t=22
+zi xing che 	自行車	c=1 d=1 t=1
+zong 	總	c=0 d=0.1 t=38
+zong shu liang 	總數量	c=1 d=1 t=39

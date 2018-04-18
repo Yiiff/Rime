@@ -1,0 +1,5 @@
+2018/04/18-14:48:35.299043 7fffaecd1340 Recovering log #103
+2018/04/18-14:48:35.299457 7fffaecd1340 Level-0 table #105: started
+2018/04/18-14:48:35.299894 7fffaecd1340 Level-0 table #105: 6079 bytes OK
+2018/04/18-14:48:35.301535 7fffaecd1340 Delete type=0 #103
+2018/04/18-14:48:35.302924 7fffaecd1340 Delete type=3 #101
